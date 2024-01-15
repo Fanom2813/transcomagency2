@@ -1,0 +1,4 @@
+#hero::after{
+    background: linear-gradient(to right, rgba(30, 67, 86, 0.7), rgba(30, 67, 86, 0.5)), url(../img/hero-bg.jpg) center top no-repeat;
+    background-size: cover !important;
+}
